@@ -1,0 +1,3 @@
+build/scripts
+node_modules
+*.log
