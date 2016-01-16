@@ -13,7 +13,7 @@ var Footer = React.createClass({
     render: function() {
         return (
             <div className="content">
-                <h4 className="primary">Device Survey</h4>
+                <h4 className="primary">Sample Device Survey</h4>
                 <p className="secondary">
                     <span>&copy; 2016 Stack Riot </span>
                     <span> &bull; </span>
