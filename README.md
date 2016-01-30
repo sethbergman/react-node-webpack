@@ -1,6 +1,6 @@
-# React-Node-Webpack
-## A sample application
+[![Docker Repository on Quay](https://quay.io/repository/sethbergman/react-node-webpack/status "Docker Repository on Quay")](https://quay.io/repository/sethbergman/react-node-webpack)
 
+# React-Node-Webpack sample application
 
 ### Getting Started
 Make sure you've got **[node.js](https://nodejs.org/)** installed.
