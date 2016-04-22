@@ -9,7 +9,7 @@ var data = require("./models/data.js");
 var server = express();
 
 var FILE_NOT_FOUND = 404;
-var PORT = process.env.PORT || 3000;
+var PORT = process.env.PORT || 5000;
 
 // Handlebars config
 var viewsPath = path.join(__dirname, "views");
