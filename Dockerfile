@@ -1,1 +1,1 @@
-FROM sethbergman/react-node-webpack
+FROM iteamdev/node-webpack
