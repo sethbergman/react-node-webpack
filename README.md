@@ -2,6 +2,8 @@
 
 # React-Node-Webpack
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/react-node-webpack.svg)](https://greenkeeper.io/)
+
 ### Getting Started
 Make sure you've got **[node.js](https://nodejs.org/)** installed.
 
