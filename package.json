@@ -22,7 +22,7 @@
     "express-handlebars": "^3.0.0",
     "extract-text-webpack-plugin": "^1.0.1",
     "jsx-loader": "^0.13.2",
-    "less": "^2.4.0",
+    "less": "^3.5.3",
     "less-loader": "^2.0.0",
     "normalize.css": "^5.0.0",
     "object-assign": "^4.1.1",
