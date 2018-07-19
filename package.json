@@ -16,7 +16,7 @@
     "classnames": "^2.1.1",
     "css-loader": "^0.26.1",
     "eslint": "^3.14.1",
-    "eslint-loader": "^1.6.1",
+    "eslint-loader": "^2.1.0",
     "eslint-plugin-react": "^6.9.0",
     "express": "^4.12.4",
     "express-handlebars": "^3.0.0",
