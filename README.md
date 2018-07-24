@@ -1,4 +1,4 @@
-[![Docker Repository on Quay](https://quay.io/repository/sethbergman/react-node-webpack/status "Docker Repository on Quay")](https://quay.io/repository/sethbergman/react-node-webpack)
+[![Docker Repository on Quay](https://quay.io/repository/sethbergman/react-node-webpack/status "Docker Repository on Quay")](https://quay.io/repository/sethbergman/react-node-webpack) [![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/react-node-webpack.svg)](https://greenkeeper.io/)
 
 # React-Node-Webpack
 
